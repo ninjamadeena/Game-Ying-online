@@ -14,7 +14,7 @@ app.use(cors());
 app.use(express.json());
 
 // เสิร์ฟไฟล์หน้าเว็บจาก ./public
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'Public')));
 
 // health check
 app.get('/health', (_req, res) => res.json({ ok: true }));
