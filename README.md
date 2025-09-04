@@ -17,7 +17,8 @@ npm install -D nodemon
 node server.js
 ```
 ## วิธีรันบน window
-### ติดตั้ง nodejs https://nodejs.org/dist/v22.18.0/node-v22.18.0-x64.msi
+### ติดตั้ง nodejs
+### https://nodejs.org/dist/v22.18.0/node-v22.18.0-x64.msi
 ### ดาวน์โหลดไฟล์โปรเจค
 ### แตกไฟล์
 ### เปิด cmd
