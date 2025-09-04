@@ -12,7 +12,7 @@ cd Game-Ying-online
 ```
 npm install -D nodemon
 ```
-รันใช้
+### รันใช้
 ```
 node server.js
 ```
