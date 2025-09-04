@@ -30,3 +30,5 @@ npm install -D nodemon
 ```
 node server.js
 ```
+## เล่นเลยใช้
+### https://game-ying-online.onrender.com/
