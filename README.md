@@ -25,7 +25,7 @@ node server.js
 ### cd ไปที่อยู่ไฟล์ของคุณ ที่แตกไฟล์แล้ว
 ### ใช้คำสั่ง
 ```
-npm install -D nodemon
+npm install
 ```
 ### รันใช้
 ```
