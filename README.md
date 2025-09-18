@@ -10,7 +10,7 @@ git clone https://github.com/ninjamadeena/Game-Ying-online
 cd Game-Ying-online
 ```
 ```
-npm install -D nodemon
+npm install
 ```
 ### รันใช้
 ```
