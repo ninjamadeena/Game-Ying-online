@@ -380,7 +380,7 @@ function initClient(){
   }
 
   function loop(){
-    const speed=4;
+    const speed = window.speed || 4;
     if(keys['w']||keys['arrowup']) local.y-=speed;
     if(keys['s']||keys['arrowdown']) local.y+=speed;
     if(keys['a']||keys['arrowleft']) local.x-=speed;
